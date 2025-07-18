@@ -8,4 +8,3 @@ if x>1:
     |> res = add x y
     |> res = y-x
     println res
-s
