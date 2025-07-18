@@ -1,10 +1,10 @@
 let x=10
 let y=12
 
-def add(x,y)=
+def add(x,y)
     (x+1)*y
 
 if x>1:
-    |> res =add x y
+    |> res = add x y
     |> res = y-x
     println res
